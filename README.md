@@ -9,8 +9,8 @@ This repository accompanies the manuscript:
 
 > R. R. Davronov and F. T. Adilova, "A Graph-Based Density-Variation
 > Clustering Framework for Outlier Removal in Chronic Disease Prediction
-> with SMOTE-ENN and Random Forest," submitted to *Results in Applied
-> Mathematics* (Elsevier), 2026.
+> with SMOTE-ENN and Random Forest," submitted to *Results in
+> Engineering* (Elsevier), 2026.
 
 ## Quick start
 
@@ -101,7 +101,7 @@ If you use this code, please cite the manuscript above.
   title   = {A Graph-Based Density-Variation Clustering Framework for
              Outlier Removal in Chronic Disease Prediction with
              SMOTE-ENN and Random Forest},
-  journal = {Results in Applied Mathematics},
+  journal = {Results in Engineering},
   year    = {2026},
   note    = {Submitted}
 }
